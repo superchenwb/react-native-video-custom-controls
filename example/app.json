@@ -1,22 +1,4 @@
 {
-  "name": "react-native-video-custom-controls-example",
-  "displayName": "VideoCustomControls Example",
-  "expo": {
-    "name": "react-native-video-custom-controls-example",
-    "slug": "react-native-video-custom-controls-example",
-    "description": "Example app for react-native-video-custom-controls",
-    "privacy": "public",
-    "version": "1.0.0",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+  "name": "VideoCustomControlsExample",
+  "displayName": "VideoCustomControls Example"
 }
